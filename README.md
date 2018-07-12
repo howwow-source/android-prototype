@@ -1,2 +1,3 @@
 # android-prototype
-very simple prototype, future versions will be much more advanced
+Howwow Prototype
+This is just a proof of concept, the finished product will offcourse be far more polished
